@@ -16,6 +16,10 @@ O projeto de robótica do IFPR Campus Barracão tem como objetivo integrar os al
 
 *   🥈 **2º Lugar - Categoria Sumô 500g (Arquitetura Aberta)**
     *Olimpíada de Robótica do IFPR 2024 - Irati, PR*
+*   🥈 **2º Lugar - Seguidor de Linha (Arquitetura Aberta)**
+    *Olimpíada de Robótica do IFPR 2024 - Irati, PR*
+*   🥉 **3º Lugar - Categoria Sumô 1KG**
+    *Olimpíada de Robótica do IFPR 2026 - Matinhos, PR*
 *   🚀 **Participação Destaque - Fase II**
     *Olimpíada de Robótica do IFPR 2025 - Campo Largo, PR*
 *   💡 **Exposição de Projetos**
