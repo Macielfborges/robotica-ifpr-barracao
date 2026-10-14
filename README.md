@@ -70,7 +70,21 @@ Robôs autônomos projetados para simular missões de resgate em ambientes de de
 
 *   **Coordenação:** Prof. Maciel Felipe Borges 
 *   **Alunos/Membros:**
-    *   *(Adicione aqui os nomes ou links do GitHub dos alunos participantes)*
+    *   Eric Bruno Lamb
+    *   Laís Caroline de Souza Chiele
+    *   João Batista Azzolini
+    *   Lucas Anael Stevens Pelissari
+    *   Julia de Lara Fagundes
+    *   Millena Ferreira de Lima
+    *   Guilherme Silveira Raffaelli
+    *   Diego Lautaro Villalba
+    *   Victor Gabriel da Silva Alexandre
+    *   Otávio Dall Onder Guerra
+    *   José vitor da Silva dos Santos
+    *   Marcos Henrique Pazzetto Sinhorini
+    *   André de Amorim Porfírio
+    *   Kelvim Suptitz
+    *   Tiago Steinbach Kehl
 
 ---
 *Instituto Federal do Paraná - IFPR Campus Barracão*
