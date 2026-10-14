@@ -1,0 +1,17 @@
+﻿# Arquivos de compilação C/C++/Arduino
+*.o
+*.obj
+*.out
+*.hex
+*.elf
+*.bin
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de Sistema Operacional e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
